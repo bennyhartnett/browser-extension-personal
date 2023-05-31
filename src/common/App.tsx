@@ -22,8 +22,10 @@ const App = () => {
           />
 
           <Heading as="h1" size="lg" flex={1}>
-            Taxy AI
+            TAF AI
           </Heading>
+          Lion Federal Test Automation Framework
+         
           <Box>
             <ModelDropdown />
           </Box>
