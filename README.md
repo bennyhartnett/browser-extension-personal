@@ -1,11 +1,11 @@
 <img src="src/assets/img/icon-128.png" width="64"/>
 
-# Taxy AI: Full Browser Automation
+# TAF AI: Full Browser Automation
 [Waitlist](https://docs.google.com/forms/d/e/1FAIpQLScAFKI1fZ1cXhBmSp2HM93Jvuc8Jvrxh5iSbkKhtwKN-OHoTQ/viewform) | [Discord](https://discord.gg/DXaErbBc)
 
-Taxy uses GPT-4 to control your browser and perform repetitive actions on your behalf. Currently it allows you to define ad-hoc instructions. In the future it will also support saved and scheduled workflows.
+TAF uses GPT-4 to control your browser and perform repetitive actions on your behalf. Currently it allows you to define ad-hoc instructions. In the future it will also support saved and scheduled workflows.
 
-Taxy's current status is **research preview**. Many workflows fail or confuse the agent. If you'd like to hack on Taxy to make it better or test it on your own workflows, follow the instructions below to run it locally. If you'd like to know once it's available for wider usage, you can sign up for our [waitlist](https://docs.google.com/forms/d/e/1FAIpQLScAFKI1fZ1cXhBmSp2HM93Jvuc8Jvrxh5iSbkKhtwKN-OHoTQ/viewform).
+TAF's current status is **research preview**. Many workflows fail or confuse the agent. If you'd like to hack on TAF to make it better or test it on your own workflows, follow the instructions below to run it locally. If you'd like to know once it's available for wider usage, you can sign up for our [waitlist](https://docs.google.com/forms/d/e/1FAIpQLScAFKI1fZ1cXhBmSp2HM93Jvuc8Jvrxh5iSbkKhtwKN-OHoTQ/viewform).
 
 Taxy is fully open-source, and we don't send any page contents or instructions to our servers.
 
